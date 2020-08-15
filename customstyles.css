@@ -1,0 +1,10 @@
+.team_img {
+  height: 180px;
+}
+
+.face-logo {
+  margin: 0px 10px 0px 10px;
+}
+.team-member li a:hover {
+  background-color: orange !important;
+}
